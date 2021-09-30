@@ -1,4 +1,5 @@
-# cp_tracker
+# Coding questions tracker
+
 This is Thuc's record of solving coding interview questions
 
 # My goal is 300+
