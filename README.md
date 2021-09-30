@@ -1,9 +1,9 @@
 # Coding questions tracker
-## Problems solved: 82
 
 This is Thuc's record of solving coding interview questions
 
 ## My goal is 300+ problems at the end of October 2021
+### Problems solved: 82
 
 # Timeline:
 09/29/2021:
