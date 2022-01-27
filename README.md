@@ -3,7 +3,7 @@
 This is Thuc's record of solving coding interview questions
 
 ## My goal is 300+ problems at the end of October 2021
-### Problems solved: 100
+### Problems solved: 143
 
 # Timeline:
 09/29/2021:
@@ -14,3 +14,6 @@ This is Thuc's record of solving coding interview questions
 
 10/07/2021:
 - At 9:10pm solved 13 problems.
+
+01/27/2022:
+- I lost count... I got 43 problems more
