@@ -1,6 +1,6 @@
 # Coding questions tracker
 
-This is Thuc's record of solving coding interview questions
+This is Thuc's record of solving coding interview questions on [Leetcode](https://leetcode.com/thucngyyen/)
 
 ## My goal is 300+ problems at the end of October 2021 (FAILED SUCCESSFULLY)
 ### Problems solved: 143
